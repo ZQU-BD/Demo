@@ -1,0 +1,16 @@
+download:
+train: data/tomato/train/images
+val: data/tomato/val/images
+test: data/tomato/val/images
+
+nc: 8
+
+names: [   'Early_blight',
+           'Healthy',
+           'Late_blight',
+           'Leaf Miner',
+           'Magnesium Deficiency',
+           'Nitrogen Deficiency',
+           'Pottassium Deficiency',
+           'Spotted Wilt Virus']
+

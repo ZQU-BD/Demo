@@ -1,0 +1,16 @@
+download:
+train: yolov7\VOCdevkit\train\images
+val: yolov7\VOCdevkit\val\images
+test: yolov7\VOCdevkit\test\images
+
+nc: 7  
+
+names: [   'Angular Leafspot',
+           'Leaf Spot',
+           'Powdery Mildew Leaf',
+           'Calciumdeficiency Leaf',
+           'anthracnose fruit rot',
+           'gray mold',
+           'Powdery Mildew fruit']
+
+

@@ -1,0 +1,15 @@
+download:
+train: data/tomato_small/train/images
+val: data/tomato_small/valid/images
+test: data/tomato_small/test/images
+
+nc: 7
+
+names: [    'Bacterial_Spot', 
+            'Early_Blight',
+            'Healthy', 
+            'Late_blight', 
+            'Leaf_Mold', 
+            'Target_Spot', 
+            'black_spot']
+

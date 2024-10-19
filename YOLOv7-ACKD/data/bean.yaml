@@ -1,0 +1,11 @@
+download:
+train: data\bean\train\images
+val: data\bean\valid\images
+test: data\bean\test\images
+
+nc: 2
+
+names: [   'ALS',
+           'Bean Rust']
+
+
